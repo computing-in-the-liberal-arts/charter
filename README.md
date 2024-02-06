@@ -1,4 +1,4 @@
-##Committee on Computing Education in Liberal Arts Colleges##
+# Committee on Computing Education in Liberal Arts Colleges #
 Repository for ACM SIGCSE Charter Files
 - Description
 - Charter
