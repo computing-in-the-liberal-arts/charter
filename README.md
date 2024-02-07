@@ -6,7 +6,7 @@
 Repository for ACM SIGCSE Charter Files:
 
 - [Description](description.md)
-- [Charter - 2016](charter-2016.md)
+- [Goals Statement](goals.md)
 - [Charter - 2019](charter-2019.md)
 - [Charter - 2024](charter-2024.md)
 
