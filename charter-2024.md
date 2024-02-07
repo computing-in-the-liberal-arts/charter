@@ -2,9 +2,9 @@
 
 **Charter Approved:** December 17, 2016
 
-**Charter Updated:** June 11, 2019 (2024 copy is as of yet in an unrevised status)
+**Charter Last Updated:** February, 2024
 
-**Facilitators:** Amanda Holland-Minkley, Washington and Jefferson College, Grant Braught, Dickinson College, Janet Davis, Whitman College, Doug Baldwin, SUNY Geneseo, Henry Walker, Grinnell College
+**Facilitators:** Amanda Holland-Minkley, Washington & Jefferson College, Andrea Tartaro, Furman University, Jakob E. Barnard, University of Jamestown, & others.
 
 # Background
 
@@ -46,7 +46,7 @@ These characteristics of liberal arts colleges have a significant impact on comp
 
 - Finally, while liberal arts colleges provide unique opportunities for collegiality within and across departments, they are often geographically and thus professionally isolating.
 
-## Groups of Liberal Arts Faculty
+## Historical Basis of Computing in the Liberal Arts
 
 Since computing programs at liberal arts colleges often are small, and since schools may be spread geographically, several small-scale organizations have developed for faculty at these schools. In each case, an important objective has been to promote discussion, consider alternatives for curricula and pedagogy, identify common problems, and share/brainstorm possible approaches. In order to encourage substantive investigation and conversation, these groups have been reasonably small or regionally focused.
 
@@ -56,44 +56,18 @@ Since computing programs at liberal arts colleges often are small, and since sch
 
 - The [Consortium for Computing Sciences in Colleges](http://www.ccsc.org/) was formed in 1985, originally focused just on small colleges before broadening its perspective to curricular and educational issues in computing at any institution in 2002. The Consortium “is concerned with the advancement of major programs in both Computer Science and Computer Information Systems, and with the use of computers in the Liberal Arts and Sciences.” The Consortium is made up of 10 regional organizations, each of which sponsors an annual conference, and many liberal arts colleges participate in these regional conferences.
 
-## A "Voice" for Liberal Arts Faculty
-
-In recent years, national bodies, such as the ACM/IEEE-CS CS2013 Curricular Task Force, have sought representation from liberal arts college faculty. Due to its published curricular recommendations, LACS members often have been tapped for these roles. In this context, both LACS and other faculty have identified the need for a more broadly-based "voice" for the liberal arts in computing education.
-
-However, although LACS has been very successful (e.g., producing respected curriculum models for liberal arts computer science and being an early advocate for laboratory computer science courses), much of its strength comes from its small size and informal organization, characteristics that do not scale well. Similarly, the Iowa Undergraduate Computer Science Consortium has been successful (e.g., facilitating the networking of faculty, collaborating on a grant), due its relatively small size and personal contacts.
-
-Altogether, the creation of this SIGCSE Committee addresses the concerns of LACS members and others for the development of a national "voice" for computing education within liberal arts colleges. The SIGCSE framework provides a natural setting for exploring possibilities on a national/international scale, as established by the SIGCSE Board.
-
 # SIGCSE Committee Charge and Goals
 
-In its initial work, starting in 2016, the Committee established that computing programs in liberal arts colleges face two major needs. First, the liberal arts computing community needs an open organization to provide a voice in larger discussions of computing education. Second, faculty in liberal arts computing programs need a network for sharing ideas with similarly situated colleagues. The Committee identified these needs through two surveys, discussions at SIGCSE Technical Symposia and through the committee mailing list, and review of the computing education literature. As summarized in its 2019 report, this work established that these two needs are widespread and that meeting them requires a permanent organization dedicated to supporting and representing liberal arts computing educators.
+In its initial work, starting in 2016, the Committee established that computing programs in liberal arts colleges face two major needs. First, the liberal arts computing community needs an open organization to provide a voice in larger discussions of computing education. Second, faculty in liberal arts computing programs need a network for sharing ideas with similarly situated colleagues. 
 
-This SIGCSE committee will continue its work by proposing a structure for and establishing such a permanent liberal arts computing organization. The committee will also continue to facilitate communication and collaboration within the liberal arts computing community in the interest of supporting its identified needs.
+The Committee identified these needs through two surveys, discussions at SIGCSE Technical Symposia and through the committee mailing list, and review of the computing education literature. As summarized in its 2019 report, this work established that these two needs are widespread and that meeting them requires a permanent organization dedicated to supporting and representing liberal arts computing educators. Outcomes and activities since that report have lead to the on-going nature of the committee for an indefinite period. 
 
-# Desired Outcomes
+# Desired Product(s) and Dissemination
 
 The committee will begin acting in the role of a permanent organization to support and speak for liberal arts computing educators. The committee will explore structures for formalizing its nature as a permanent organization. Ideally, existing structures within the SIGCSE Bylaws, such as committees or working groups, can be adapted to this purpose. The committee will propose a specific structure and carry out any work required to establish itself as a permanent group. If appropriate, the committee will propose adjustments to the SIGCSE Bylaws to more generally permit the conversion of committees engaging in long-term initiatives into permanent or "standing committee" status.
 
 While working to formalize itself as a permanent organization, the committee will continue its work in support of liberal arts computing education by prioritizing and exploring the effectiveness of a number of the recommendations contained in the 2019 Committee report. An outline of the intended actions is included below in the Timeline. Input from the broader liberal arts computing community will continue to be solicited and incorporated in the committee’s’ ongoing efforts.
 
-# Timeline
+For the dissemination, the SIGCSE-LACs committee has worked with ACM and SIGCSE to establish a committee listserv. All ACM-established listservs may be found at listserv.acm.org. To join the discussion for this committee, SIGCSE members should log into their ACM account (available to SIGCSE members) at the ACM Listserv page and click the subscribe link for SIGCSE-LIBARTS-COMM.
 
-The committee’s work from 2016-2019 focused on understanding the various perspectives and needs of the liberal arts computing education community; this work is summarized in its Spring 2019 report, available in the June 2019 issue of ACM Inroads (https://dl.acm.org/citation.cfm?id=3314027). As the committee continues its work, its activities will shift to establishing itself as a permanent organization and sponsoring activities directly in support of the liberal arts computing education community. It proposes the following plan for proceeding with its updated charge and goals:
-
-**Summer 2019:** Develop and propose a workshop or pre-symposium event for SIGCSE 2020 focused on identified needs; Research organizational structures within SIGCSE Bylaws to identify paths toward establishing a permanent organization
-
-**Fall 2019:** Prepare a summary of possible organization structures and make recommendations
-
-**SIGCSE 2020:** Initial meeting of committee as an on-going organization; Workshop or Pre-symposium event for liberal arts computing educators
-
-**Spring/Summer 2020:** Act on feedback and recommendations from initial meeting; Communicate with the SIGCSE Board about next steps; Plan and propose SIGCSE 2021 activities
-
-Throughout this timeline, electronic communication through the committee listserv will be used to gather community input and include those who cannot attend the planned meetings or workshop/pre-symposium events.
-
-# Call for Participation and Supporting Listserv
-
-The vision of this committee includes discussions among numerous liberal-arts faculty. The committee has worked with ACM and SIGCSE to establish a committee listserv. All
-
-ACM-established listservs may be found at listserv.acm.org. To join the discussion for this committee, SIGCSE members should log into their ACM account (available to SIGCSE members) at the ACM Listserv page and click the subscribe link for SIGCSE-LIBARTS-COMM.
-
-Information about major committee activities are also shared through the SIGCSE-MEMBERS mailing list.
+Information about major committee activities are stored on the [Web Repository](https://computing-in-the-liberal-arts.github.io/) and announcements are typically sent out via the Listserv.
