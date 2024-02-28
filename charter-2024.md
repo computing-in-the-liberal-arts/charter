@@ -60,7 +60,12 @@ Since computing programs at liberal arts colleges often are small, and since sch
 
 In its initial work, starting in 2016, the Committee established that computing programs in liberal arts colleges face two major needs. First, the liberal arts computing community needs an open organization to provide a voice in larger discussions of computing education. Second, faculty in liberal arts computing programs need a network for sharing ideas with similarly situated colleagues. The committee has established that these two needs are widespread and that meeting them requires an on-going organization dedicated to supporting and representing liberal arts computing educators. 
 
-The committee will continue its work in support of liberal arts computing education by prioritizing and exploring the effectiveness of a number of the recommendations contained in the 2019 Committee report. An outline of committee activities, including events sponsored and reports made, are available on the committee Web Repository, linked below. Input from the broader liberal arts computing community will continue to be solicited and incorporated in the committee’s’ ongoing efforts.
+The committee will continue its work in support of liberal arts computing education with the following goals:
+- Speak for the liberal arts computing community in larger discussions of computing education, such as the recent process of developing CS2023.
+- Provide a network for faculty in liberal arts computing programs to share ideas with similarly situated colleagues, including organizing events and opportunities to gather.
+- Produce reports and publications related to current issues in and research about computing education in liberal arts colleges.
+
+An outline of committee activities, including events sponsored and reports made, are available on the committee Web Repository, linked below. Input from the broader liberal arts computing community will continue to be solicited and incorporated in the committee’s’ ongoing efforts.
 
 To disseminate information about its activities, the SIGCSE-LACs committee has worked with ACM and SIGCSE to establish a committee listserv. All ACM-established listservs may be found at listserv.acm.org. To join the discussion for this committee, SIGCSE members should log into their ACM account (available to SIGCSE members) at the ACM Listserv page and click the subscribe link for SIGCSE-LIBARTS-COMM.
 
